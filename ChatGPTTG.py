@@ -1,8 +1,6 @@
 import openai as openai
 import telebot
 from telebot import types
-import psycopg2 as ps
-import datetime as dt
 
 # Параметры подключения к Телеграм
 
